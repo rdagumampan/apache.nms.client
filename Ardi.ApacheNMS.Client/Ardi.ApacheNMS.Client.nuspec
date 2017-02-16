@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ardi.ApacheNMS.Client</id>
+    <version>0.1.0</version>
+    <authors>Rodel E. Dagumampan</authors>
+    <owners>Rodel E. Dagumampan</owners>
+    <licenseUrl>https://github.com/rdagumampan/apache.nms.client/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/rdagumampan/apache.nms.client</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET client API for publishing and consuming messages from ActiveMQ using native Wire protocol.</description>
+    <releaseNotes>Alpha</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>apache nms activemq eai</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\Ardi.ApacheNMS.Client.dll" target="lib\Ardi.ApacheNMS.Client.dll"></file>
+  </files>
+</package>

@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/Ardi.Kickstarter.ApacheNMS/v14
+/ApacheNMS.Client/obj
+/ApacheNMS.Client/bin
+/ApacheNMS.Console/obj/Debug
+/ApacheNMS.Console/bin/Debug
+/.vs/Ardi.ApacheNMS/v14
+/Ardi.ApacheNMS.Client/obj
+/Ardi.ApacheNMS.Client/bin
+/Ardi.ApacheNMS.ExRequestResponse/obj/Debug
+/Ardi.ApacheNMS.ExRequestResponse/bin/Debug
+*.user
+/Ardi.ApacheNMS.ExPubsub/bin/Debug
+/Ardi.ApacheNMS.ExPubsub/obj/Debug
